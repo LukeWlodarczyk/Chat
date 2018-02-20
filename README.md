@@ -1,1 +1,6 @@
 # Chat
+
+## Technologies
+* Socket
+* MongoDB
+
